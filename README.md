@@ -15,16 +15,16 @@ Practice multiple test case design techniques on a real-world application featur
 - Deliverable: Spreadsheet or document with clearly labeled sections per technique.
 ---
 ## Template
-# Test Scenario ID	
-# Test Scenario Description 	
-# Test Case ID	
-# Test Case description 	
-# Test type 	
-# Test Data 	
-# Test Steps 	
-# Expected Result	
-# Actual Result 	
-# STATUS
+- Test Scenario ID	
+- Test Scenario Description 	
+- Test Case ID	
+- Test Case description 	
+- Test type 	
+- Test Data 	
+- Test Steps 	
+- Expected Result	
+- Actual Result 	
+- STATUS
 
 
 ---
